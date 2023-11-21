@@ -1,6 +1,6 @@
 <%@ page contentType="text/html; charset=UTF-8" %>
-<%@ page import="hu.alkfejl.dao.PartyDAOImpl" %>
-<%@ page import="hu.alkfejl.dao.Party" %>
+<%@ page import="hu.deniszbecskei.dao.PartyDAOImpl" %>
+<%@ page import="hu.deniszbecskei.dao.Party" %>
 <%@ page import="java.util.List" %>
 <%@ page import="java.util.Collections" %>
 <html>

@@ -1,9 +1,9 @@
 <%@ page contentType="text/html; charset=UTF-8" %>
-<%@ page import="hu.alkfejl.dao.Party" %>
-<%@ page import="hu.alkfejl.dao.PartyDAO" %>
-<%@ page import="hu.alkfejl.dao.PartyDAOImpl" %>
-<%@ page import="hu.alkfejl.dao.Coords" %>
-<%@ page import="hu.alkfejl.Control" %>
+<%@ page import="hu.deniszbecskei.dao.Party" %>
+<%@ page import="hu.deniszbecskei.dao.PartyDAO" %>
+<%@ page import="hu.deniszbecskei.dao.PartyDAOImpl" %>
+<%@ page import="hu.deniszbecskei.dao.Coords" %>
+<%@ page import="hu.deniszbecskei.Control" %>
 <%@ page %><%--
   Created by IntelliJ IDEA.
   User: Gustyff
