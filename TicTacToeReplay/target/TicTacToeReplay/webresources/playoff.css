@@ -1,0 +1,83 @@
+.cell {
+    border: 1px solid black;
+    position: absolute;
+}
+
+.limeCell {
+    background-color: lime;
+}
+
+.redCell {
+    background-color: red;
+}
+
+.whiteCell {
+    background-color: white;
+}
+
+.demoCell1 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    right: 350px;
+    top: 30vh;
+}
+
+.demoCell2 {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    right: 350px;
+    top: 35vh;
+}
+
+.demoText1 {
+    position: absolute;
+    right: 245px;
+    top: 29vh;
+    color: red;
+}
+
+.demoText2 {
+    position: absolute;
+    right: 245px;
+    top: 34vh;
+    color: lime;
+}
+
+.backBtn {
+    position: absolute;
+    right: 3vw;
+    top: 10px;
+}
+
+.btnReplay {
+    position: absolute;
+    right: 250px;
+    width: 120px;
+    height: 30px;
+}
+
+.btnReplayFwd {
+    top: 45vh;
+}
+
+.btnReplayBwd {
+    top: 50vh;
+}
+
+.paragraphReplay {
+    position: absolute;
+    right: 250px;
+    top: 40vh;
+}
+
+.automataTimeInput {
+    position: absolute;
+    right: 250px;
+    top: 58vh;
+}
+
+.btnReplayAutomata {
+    top: 62vh;
+}

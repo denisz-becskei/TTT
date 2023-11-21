@@ -1,0 +1,59 @@
+.logo {
+    position: relative;
+    width: 150px;
+    left: calc(100vw / 2 - 150px / 2);
+    top: 10px;
+    margin-bottom: 10px;
+}
+
+form {
+    margin: 0;
+}
+
+.divBaseHome {
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.divLight {
+    background-color: lightgray;
+}
+
+.divDark {
+    background-color: gray;
+    color: white;
+}
+
+p {
+    width: 175px;
+    text-align: center;
+}
+
+.paragraphHome {
+    position: relative;
+    left: 5vw;
+}
+
+.btnHome {
+    position: relative;
+    left: 10vw;
+    width: 120px;
+    height: 30px;
+    top: 10px;
+}
+
+.btnDel {
+    position: relative;
+    right: 55vw;
+    width: 120px;
+    height: 30px;
+    top: 10px;
+}
+
+/* So the hidden element doesn't mess up other elements*/
+.noninterference {
+    position: absolute;
+}
+

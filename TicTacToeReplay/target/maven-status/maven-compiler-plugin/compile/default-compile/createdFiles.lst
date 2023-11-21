@@ -1,0 +1,7 @@
+hu\alkfejl\Control.class
+hu\alkfejl\dao\PartyDAOImpl.class
+hu\alkfejl\dao\Party.class
+hu\alkfejl\dao\PartyDAO.class
+hu\alkfejl\HelloServlet.class
+hu\alkfejl\AppConfig.class
+hu\alkfejl\dao\Coords.class
